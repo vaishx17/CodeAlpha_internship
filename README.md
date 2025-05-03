@@ -1,4 +1,4 @@
- CodeAlpha Internship Tasks - [Vaishnavi.S]
+# CodeAlpha Internship Tasks - [Vaishnavi.S]
 
 This repository contains the tasks completed during my internship with CodeAlpha.
 
